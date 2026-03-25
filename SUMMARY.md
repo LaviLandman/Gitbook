@@ -1,4 +1,4 @@
 # Table of contents
 
-* [PS instructions](README.md)
-* [Test Page](test-page.md)
+* [README](README.md)
+* [PS Instructions](test-page.md)
